@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UMS_Project/static/css/main.0bd36a30.css",
+    "main.js": "/UMS_Project/static/js/main.5f9f639b.js",
+    "static/js/787.9ebb9e5b.chunk.js": "/UMS_Project/static/js/787.9ebb9e5b.chunk.js",
+    "index.html": "/UMS_Project/index.html",
+    "main.0bd36a30.css.map": "/UMS_Project/static/css/main.0bd36a30.css.map",
+    "main.5f9f639b.js.map": "/UMS_Project/static/js/main.5f9f639b.js.map",
+    "787.9ebb9e5b.chunk.js.map": "/UMS_Project/static/js/787.9ebb9e5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd36a30.css",
+    "static/js/main.5f9f639b.js"
+  ]
+}
